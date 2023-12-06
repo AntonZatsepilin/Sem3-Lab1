@@ -1,6 +1,7 @@
 #ifndef LAB1_my_shared_ptr_H
 #define LAB1_my_shared_ptr_H
 
+#include <cstddef>
 #include <utility>
 
 template <typename T>
